@@ -1,4 +1,6 @@
 # 🌿 Farmony
+![image](https://github.com/user-attachments/assets/26c85b18-1b5d-4145-870d-9862cd64339d)
+
 
 > 치유 농업 기반 전문가 매칭 & 프로그램 관리 플랫폼  
 > 자연과 사람을 잇는 따뜻한 기술을 만듭니다.  
