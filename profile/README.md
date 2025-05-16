@@ -1,4 +1,8 @@
-# 🌿 Farmony
+
+# <p align="center"> 🌿 Farmony </p>
+
+
+
 ![image](https://github.com/user-attachments/assets/26c85b18-1b5d-4145-870d-9862cd64339d)
 
 
@@ -58,6 +62,5 @@ https://github.com/user-attachments/assets/4293c182-3f17-4e62-b170-81da0a986f9a
 ## 📫 Contact
 
 - Email: dodo447@kyonggi.ac.kr
-- Notion: 
 
 ---
